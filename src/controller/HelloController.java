@@ -22,4 +22,12 @@ public class HelloController {
     public void test4() {
         System.out.println("这里是测试版本回退！！！=========4");
     }
+
+    public void test5() {
+        System.out.println("这里是测试版本回退！！！=========5");
+    }
+
+    public void test6() {
+        System.out.println("这里是测试版本回退！！！=========6");
+    }
 }
